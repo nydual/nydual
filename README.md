@@ -1,7 +1,7 @@
 👋🏾 HI, I'M NYDUAL 
 -----------------
 
-A data science student who enjoys learning anything data 😊
+ 
 
 <img src="https://media.giphy.com/media/GrRgIa839nAwRa2qKW/giphy.gif" width="512" >
 
