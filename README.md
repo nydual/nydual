@@ -1,9 +1,3 @@
-👋🏾 HI, I'M NYDUAL 
------------------
-
- 
-
-<img src="https://media.giphy.com/media/GrRgIa839nAwRa2qKW/giphy.gif" width="512" >
 
 
 ### Skills
