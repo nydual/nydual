@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, I'm Nyadual.
 
-![Data Science and Analystics ](https://github.com/nydual/nydual/blob/main/banner.png)
+![Data Science and Analystics ](https://github.com/nydual/nydual/blob/main/G%20Banner.png)
 
 I'm a Data Science student passionate about turning data into impactful insights and making complex data understandable through accessible visualization. I thrive on data-driven decision-making and believe that everyone should have access to clear, compelling data stories.I'm currently diving deep into the world of machine learning, statistical analysis, and data visualization tools like Python, SQL, R, and Tableau.
 
