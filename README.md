@@ -11,4 +11,4 @@ I'm a Data Science student passionate about turning data into impactful insights
 
 ### Connect with me 🌏
 
-<img src="https://github.com/nydual/nydual/blob/main/git.gif" width = "200"/>
+<img src="https://github.com/nydual/nydual/blob/main/git.gif" width = "250"/>
