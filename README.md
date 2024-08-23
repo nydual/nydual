@@ -12,3 +12,6 @@ I'm a Data Science student passionate about turning data into impactful insights
 ### Connect with me 🌏
 
 <img src="https://github.com/nydual/nydual/blob/main/git.gif" width = "250"/>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nyadual) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dualcmd) 
