@@ -2,7 +2,7 @@
 
 ![Data Science and Analystics ](https://github.com/nydual/nydual/blob/main/G%20Banner.png)
 
-I'm a Data Science student passionate about turning data into impactful insights and making complex data understandable through accessible visualization. I thrive on data-driven decision-making and believe that everyone should have access to clear, compelling data stories.I'm currently diving deep into the world of machine learning, statistical analysis, and data visualization tools like Python, SQL, R, and Tableau.
+I'm a data science student with an endless curiosity for AI, machine learning, and data visualization. I believe every dataset tells its own unique story, and I thrive on uncovering actionable insights hidden within the numbers. Currently, I'm refining my statistical analysis skills and mastering tools like Python, SQL, R,Tableau and Power BI to breathe life into complex data.
 
 
 ### Languages and Tools:
