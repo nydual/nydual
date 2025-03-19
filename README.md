@@ -1,4 +1,4 @@
-### Hi there 👋🏾, I'm Nyadual.
+### Hi there 👋🏾, I'm Nydual.
 
 ![Data Science and Analystics ](https://github.com/nydual/nydual/blob/main/G%20Banner.png)
 
