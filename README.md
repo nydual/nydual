@@ -11,6 +11,7 @@ I'm a data science student with an endless curiosity for AI, machine learning, a
 ### Connect with me 
 
 <img src="https://github.com/nydual/nydual/blob/main/git.gif" width = "250"/>
+<img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif?cid=ecf05e47yxr8ag5j9xtqivxw8unjv3im3isapmubvqftvkdb&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = "250"/>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nyadual) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dualcmd) 
