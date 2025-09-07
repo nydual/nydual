@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-I'm Nyadual, a data science student driven by a deep curiosity for AI, machine learning and data visualization. I believe every dataset holds a unique story, and I like uncovering the actionable insights hidden within the numbers. Currently, I’m sharpening my skills in statistical analysis while diving deeper into machine learning models and Big Data technologies to turn complex data into meaningful impact.
+I'm Nydual, a data science student driven by a deep curiosity for AI, machine learning and data visualization. I believe every dataset holds a unique story, and I like uncovering the actionable insights hidden within the numbers. Currently, I’m sharpening my skills in statistical analysis while diving deeper into machine learning models and Big Data technologies to turn complex data into meaningful impact.
 
 
 
