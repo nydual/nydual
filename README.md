@@ -1,7 +1,5 @@
 ### Hi there 👋🏾
-
-I'm Nydual, a data science student driven by a deep curiosity for AI, machine learning and data visualization. I believe every dataset holds a unique story, and I like uncovering the actionable insights hidden within the numbers. Currently, I’m sharpening my skills in statistical analysis while diving deeper into machine learning models and Big Data technologies to turn complex data into meaningful impact.
-
+I’m Nydual, a data science graduate with a strong interest in data analysis, AI, machine learning, and data visualization. I believe every dataset holds a story and I enjoy uncovering the insights hidden within the numbers. I’m continuing to deepen my skills in statistical analysis, advanced analytics, machine learning, and Big Data technologies—using them to turn complex data into meaningful, real-world impact.
 
 
 
