@@ -1,8 +1,13 @@
-### Hi there 👋🏾
-I’m Nydual, a data science graduate with a strong interest in data analysis, AI, machine learning, and data visualization. I believe every dataset holds a story and I enjoy uncovering the insights hidden within the numbers. I’m continuing to deepen my skills in statistical analysis, advanced analytics, machine learning, and Big Data technologies—using them to turn complex data into meaningful, real-world impact.
+### 👋 Hi, I’m Nydual👋🏾
+I’m an Analyst with an MSc in Data Science & Analytics, focused on applied analytics, machine learning, and AI.
 
+I work with data to support insight generation and decision-making, and I enjoy building practical, well-structured data science projects. My experience includes analyzing complex datasets, developing and evaluating machine learning models, and designing reliable analytical workflows using Python, R, and SQL.
 
-
+My interests include:
+- Applied machine learning and AI
+- Data pipelines and analytical systems
+- Database design and data modeling
+- Data visualization and storytelling
 
 <img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif?cid=ecf05e47yxr8ag5j9xtqivxw8unjv3im3isapmubvqftvkdb&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = "250"/>
 
