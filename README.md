@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Nydual👋🏾
 I’m an Analyst with an MSc in Data Science & Analytics, focused on applied analytics, machine learning, and AI.
 
-I work with data to support insight generation and decision-making, and I enjoy building practical, well-structured data science projects. My experience includes analyzing complex datasets, developing and evaluating machine learning models, and designing reliable analytical workflows using Python, R, and SQL.
-
 My interests include:
 - Applied machine learning and AI
 - Data pipelines and analytical systems
