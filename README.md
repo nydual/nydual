@@ -1,5 +1,5 @@
 ### Hey, I’m Nydual👋🏾
-MSc graduate in Data Science & Analytics interested in building practical data solutions.
+MSc graduate in Data Science & Analytics. I love building practical data solutions.
 
 My interests include:
 - Applied machine learning and AI
