@@ -1,16 +1,3 @@
-### Hey, I’m Nydual👋🏾
-Data Scientist. I love building practical data solutions.
-
-My interests include:
-- Applied machine learning and AI
-- Data pipelines and analytical systems
-- Database design and data modeling
-- Data visualization and storytelling
-- Open-source contributions.
-
-<img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif?cid=ecf05e47yxr8ag5j9xtqivxw8unjv3im3isapmubvqftvkdb&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = "250"/>
-
-
 
 
 ### Languages and Tools:
